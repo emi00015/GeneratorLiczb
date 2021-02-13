@@ -1,0 +1,10 @@
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\bin\Debug\LiczbyLosowe.exe.config
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\bin\Debug\LiczbyLosowe.exe
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\bin\Debug\LiczbyLosowe.pdb
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.csprojAssemblyReference.cache
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.Form1.resources
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.Properties.Resources.resources
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.csproj.GenerateResource.cache
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.csproj.CoreCompileInputs.cache
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.exe
+C:\Users\emi00\source\repos\LiczbyLosowe\LiczbyLosowe\obj\Debug\LiczbyLosowe.pdb
